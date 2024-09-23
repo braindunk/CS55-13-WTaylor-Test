@@ -29,7 +29,7 @@ export default function Entry( { itemData } ) {
   //console.log(itemData[0].name);
   return (
     <Layout>
-      <h1>{itemData[0].name}'s Pets</h1>
+      <h1>{itemData[0].name}&apos;s Pets</h1>
       
     </Layout>
   );
